@@ -1,7 +1,8 @@
-# TO Dr.Z Yu & Dr.C Ang:
-# Wenzhou Speech Recognition Project
-## Project Overview
-This project aims to build a speech recognition system for Wenzhou dialect,coded by CWhide,26,Oct,2024,using MFCC for feature extraction and applying both HMM and neural network models.
+# Wenzhou Speech Recognition Project  、
+NO COPY！！！！！！！！ 2024年10月27日声明
+不允许复制、发行、商用，软著、专利注册  2024年10月27日声明
+## Project Overview  
+This project aims to build a speech recognition system for Wenzhou dialect,coded by CWhide,26,Oct,2024,using MFCC for feature extraction and applying both HMM and neural network models.  
 
 coding environment：Ubuntu，CWhide‘s computer
 
